@@ -1,5 +1,7 @@
 # ModularGripper
 
+![ModularGripper](project.jpg)
+
 This project has CAD model file required to make a Modular Gripper. 
 
 Development of reliable, lightweight prosthetic gripper that can perform a power grasp and precision grasp of test objects. The gripper is prototyped using 3D printing technology and Hybrid deposition manufacturing technique. Several design strategies are implemented and investigated to achieve a robust design capable of grasping everyday objects which have different form factors.
