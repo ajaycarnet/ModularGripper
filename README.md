@@ -1,6 +1,6 @@
 # ModularGripper
 
-![ModularGripper](project.jpg)
+![ModularGripper](display.jpg)
 
 This project has CAD model file required to make a Modular Gripper. 
 
