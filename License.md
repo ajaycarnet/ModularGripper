@@ -14,6 +14,6 @@ Attribution:
 
 For academic/research work, please cite the following paper: R.R. Ma, L.U. Odhner, A.M. Dollar, "A Modular, Open-Source 3D Printed Underactuated Hand," Proceedings of International Conference on Robotics and Automation, Karlsruhe, Germany, 2013
 
-For derivative, adapted works, please include the following text:
+This Project is derived from Yale Open Hand Project:
 
 The Yale OpenHand Project is an initiative to advance the design and use of robotic hands designed and built through rapid-prototyping techniques in order to encourage more variation and innovation in mechanical hardware. Please visit our site at www.eng.yale.edu/grablab/openhand for more details.
