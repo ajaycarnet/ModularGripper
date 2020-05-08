@@ -13,4 +13,4 @@ https://www.ajaycarnet.com/contact
 
 The end configuration look like this, 
 
-![ModularGripper](configuration2.jpg)
+![Configuration](configuration2.jpg)
