@@ -13,4 +13,4 @@ https://www.ajaycarnet.com/contact
 
 The end configuration look like this, 
 
-![Configuration](configuration2.jpg)
+![Configuration](configration2.PNG)
